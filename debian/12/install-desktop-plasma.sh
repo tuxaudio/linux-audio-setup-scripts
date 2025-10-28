@@ -65,7 +65,7 @@ sudo apt update && sudo apt full-upgrade -y
 # ------------------------------------------------------------------------------------
 # GRUB background image
 # ------------------------------------------------------------------------------------
-wget https://raw.githubusercontent.com/brendaningram/linux-audio-setup-scripts/main/debian/debian-wallpaper.tga
+wget https://raw.githubusercontent.com/tuxaudio/linux-audio-setup-scripts/main/debian/debian-wallpaper.tga
 sudo mv debian-wallpaper.tga /boot/grub/
 sudo update-grub
 

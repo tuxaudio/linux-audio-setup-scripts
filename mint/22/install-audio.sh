@@ -3,7 +3,7 @@
 # This is a bash script for configuring Linux Mint 22 (XXX) for pro audio.
 # ---------------------------
 # NOTE: Execute this script by running the following command on your system:
-# wget -O ~/install-audio.sh https://raw.githubusercontent.com/brendaningram/linux-audio-setup-scripts/main/mint/22/install-audio.sh && chmod +x ~/install-audio.sh && ~/install-audio.sh
+# wget -O ~/install-audio.sh https://raw.githubusercontent.com/tuxaudio/linux-audio-setup-scripts/main/mint/22/install-audio.sh && chmod +x ~/install-audio.sh && ~/install-audio.sh
 
 # Exit if any command fails
 set -e

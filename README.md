@@ -64,4 +64,4 @@ As of January 2025, I have used Fedora (currently 41) and Neon (currently 24.04)
 ## Notes:
 
 #### SSH clone this repository
-`git clone git@github.com:brendaningram/linux-audio-setup-scripts.git`
+`git clone git@github.com:tuxaudio/linux-audio-setup-scripts.git`

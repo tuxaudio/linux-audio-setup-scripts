@@ -3,7 +3,7 @@
 # This is a bash script for configuring Debian 13 (trixie) for pro audio USING PIPEWIRE.
 # ---------------------------
 # NOTE: Execute this script by running the following command on your system:
-# wget -O ~/install-audio.sh https://raw.githubusercontent.com/brendaningram/linux-audio-setup-scripts/main/debian/13/install-audio.sh && chmod +x ~/install-audio.sh && ~/install-audio.sh
+# wget -O ~/install-audio.sh https://raw.githubusercontent.com/tuxaudio/linux-audio-setup-scripts/main/debian/13/install-audio.sh && chmod +x ~/install-audio.sh && ~/install-audio.sh
 
 # Exit if any command fails
 set -e
@@ -46,8 +46,6 @@ sudo apt install pipewire-alsa pipewire-audio pipewire-audio-client-libraries pi
 # Tell all apps that use JACK to now use the Pipewire JACK
 sudo cp /usr/share/doc/pipewire/examples/ld.so.conf.d/pipewire-jack-*.conf /etc/ld.so.conf.d/
 sudo ldconfig
-
-#sudo apt install qjackctl --no-install-recommends -y
 
 
 # ---------------------------
