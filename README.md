@@ -29,33 +29,36 @@ As of January 2025, I have used Fedora (currently 41) and Neon (currently 24.04)
 - **Arch**
   - [Current](arch/install-audio.sh)
 - **Debian**
-  - [Debian 11 (bullseye)](debian/11/install-audio-jack.sh)
+  - [Debian 13 (trixie)](debian/13/install-audio.sh)
   - [Debian 12 (bookworm)](debian/12/install-audio.sh)
-  - [Debian 13 (trixie COMING SOON)](debian/13/install-audio.sh)
+  - [Debian 11 (bullseye)](debian/11/install-audio-jack.sh)
 - **Fedora**
-  - [Fedora 35](fedora/35/install-audio.sh)
-  - [Fedora 36](fedora/36/install-audio.sh)
-  - [Fedora 37](fedora/37/install-audio.sh)
-  - [Fedora 38](fedora/38/install-audio.sh)
-  - [Fedora 40](fedora/40/install-audio.sh)
+  - [Fedora 43 COMING SOON](fedora/43/install-audio.sh)
+  - [Fedora 42](fedora/42/install-audio.sh)
   - [Fedora 41](fedora/41/install-audio.sh)
-  - [Fedora 42 COMING SOON](fedora/41/install-audio.sh)
+  - [Fedora 40](fedora/40/install-audio.sh)
+  - [Fedora 38](fedora/38/install-audio.sh)
+  - [Fedora 37](fedora/37/install-audio.sh)
+  - [Fedora 36](fedora/36/install-audio.sh)
+  - [Fedora 35](fedora/35/install-audio.sh)
 - **KDE Neon**
-  - [20.04 (based on focal)](neon/2004/install-audio.sh)
-  - [22.04 (based on jammy)](neon/2204/install-audio.sh)
   - [24.04 (based on noble)](neon/2404/install-audio.sh)
+  - [22.04 (based on jammy)](neon/2204/install-audio.sh)
+  - [20.04 (based on focal)](neon/2004/install-audio.sh)
 - **Manjaro**
   - [Current](manjaro/install-audio.sh)
 - **Mint**
-  - [20 (uma)](mint/20/install-audio.sh)
-  - [21 (vanessa)](mint/21/install-audio.sh)
   - [22 (COMING SOON)](mint/22/install-audio.sh)
+  - [21 (vanessa)](mint/21/install-audio.sh)
+  - [20 (uma)](mint/20/install-audio.sh)
 - **Ubuntu**
-  - [20.04 (focal)](ubuntu/2004/install-audio.sh)
-  - [22.04 (jammy)](ubuntu/2204/install-audio.sh)
-  - [22.10 (kinetic)](ubuntu/2210/install-audio.sh)
   - [24.04 (COMING SOON)](ubuntu/2404/install-audio.sh)
+  - [24.04 (COMING SOON)](ubuntu/2404/install-audio.sh)
+  - [22.10 (kinetic)](ubuntu/2210/install-audio.sh)
+  - [22.04 (jammy)](ubuntu/2204/install-audio.sh)
+  - [20.04 (focal)](ubuntu/2004/install-audio.sh)
 - **Zorin OS**
+  - [18](zorinos/18/install-audio.sh)
   - [16](zorinos/16/install-audio.sh)
 
 ## Notes:
