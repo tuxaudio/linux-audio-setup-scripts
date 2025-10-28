@@ -27,7 +27,7 @@ sudo apt update && sudo apt upgrade -y
 # https://liquorix.net/
 # ---------------------------
 sudo apt install curl -y
-curl 'https://liquorix.net/add-liquorix-repo.sh' | sudo bash
+curl -s 'https://liquorix.net/install-liquorix.sh' | sudo bash
 sudo apt install linux-image-liquorix-amd64 linux-headers-liquorix-amd64 -y
 
 
