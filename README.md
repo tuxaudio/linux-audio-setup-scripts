@@ -52,6 +52,7 @@ As of January 2025, I have used Fedora (currently 41) and Neon (currently 24.04)
   - [21 (vanessa)](mint/21/install-audio.sh)
   - [20 (uma)](mint/20/install-audio.sh)
 - **Ubuntu**
+  - [25.10 (COMING SOON)](ubuntu/2510/install-audio.sh)
   - [24.04 (COMING SOON)](ubuntu/2404/install-audio.sh)
   - [24.04 (COMING SOON)](ubuntu/2404/install-audio.sh)
   - [22.10 (kinetic)](ubuntu/2210/install-audio.sh)
