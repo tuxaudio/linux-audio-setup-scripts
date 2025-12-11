@@ -30,8 +30,9 @@ As of January 2025, I have used Fedora (currently 41) and Neon (currently 24.04)
   - [Current](arch/install-audio.sh)
 - **Debian**
   - [Debian 13 (trixie)](debian/13/install-audio.sh)
-  - [Debian 12 (bookworm)](debian/12/install-audio.sh)
-  - [Debian 11 (bullseye)](debian/11/install-audio-jack.sh)
+  - [Debian 14 (forky - COMING SOON)](debian/14/install-audio.sh)
+- **ElementaryOS**
+  - [8 (noble)](elementaryos/8/install-audio.sh)
 - **Fedora**
   - [Fedora 43 COMING SOON](fedora/43/install-audio.sh)
   - [Fedora 42](fedora/42/install-audio.sh)
